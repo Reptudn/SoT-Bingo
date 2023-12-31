@@ -143,5 +143,15 @@
 		"task": "Defeat the kraken",
 		"description": "Kill Mr. Big Squid",
 		"difficulty": "medium"
+	},
+	{
+		"task": "Make friends with another crew",
+		"description": "Explains itself",
+		"difficulty": "medium"
+	},
+	{
+		"task": "Server Merge",
+		"description": "Get merged into another server",
+		"difficulty": "hard"
 	}
 ]
