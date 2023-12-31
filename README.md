@@ -15,3 +15,19 @@ You can choose the difficulty between these options
 | Hard | Already a pro? |
 | Impossible| You sure? |
 | Mixed | Mixed quests of all difficulty levels |
+
+## JSON Quest Format
+```json
+[
+	{
+		"task": "quest1 text",
+		"description": "quest1 description",
+		"difficulty": "easy/medium/hard/impossible"
+	},
+	{
+		"task": "quest2 text",
+		"description": "quest2 description",
+		"difficulty": "easy/medium/hard/impossible"
+	}
+]
+```
