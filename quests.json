@@ -6,10 +6,12 @@
 	},
 	{
 		"task": "Get rared",
+		"description": "Get hit by a vulcano (in the roar)",
 		"difficulty": "hard"
 	},
 	{
 		"task": "test3",
+		"description": "Get hit by a vulcano (in the roar)",
 		"difficulty": "easy/medium/hard/impossible"
 	}
 ]
