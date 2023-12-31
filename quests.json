@@ -153,5 +153,15 @@
 		"task": "Server Merge",
 		"description": "Get merged into another server",
 		"difficulty": "hard"
+	},
+	{
+		"task": "Steal a Chest of Fortune from another crew",
+		"description": "Steal a Chest of Fortune from another crew",
+		"difficulty": "hard"
+	},
+	{
+		"task": "Sell the gold hoarder skull",
+		"description": "This boy is thanky",
+		"difficulty": "medium"
 	}
 ]
