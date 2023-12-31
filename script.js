@@ -30,16 +30,18 @@ function getRandomQuest(quests) {
 	if (questAlreadyOnBoard(quest)) {
 		console.log("Quest already on board, getting another...");
 		getRandomQuest(quests);
-	} else {
-		console.log(quest);
-		return quest;
-	}
+	} 
+	console.log(quest);
+	return quest;
 }
 
 function generateBoard(board) {
 	for (let i = 0; i < board.length; i++)
 		for (let j = 0; j < board[i].length; j++)
 			board[i][j] = getRandomQuest(quests);
+	for (let i = 0; i < board.length; i++)
+		for (let j = 0; j < board[i].length; j++)
+			document.getElementById("board").innerHTML += board[i][j].task + "<br>";
 }
 
 generateBoard(board);

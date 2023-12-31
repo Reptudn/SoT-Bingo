@@ -6,12 +6,142 @@
 	},
 	{
 		"task": "Get rared",
-		"description": "Get hit by a vulcano (in the roar)",
+		"description": "Get a blackscreen or a long blackscreen",
 		"difficulty": "hard"
 	},
 	{
-		"task": "test3",
-		"description": "Get hit by a vulcano (in the roar)",
-		"difficulty": "easy/medium/hard/impossible"
+		"task": "Deliver 5 kegs to the reapers",
+		"description": "Get any keg and sell them to the reapers",
+		"difficulty": "medium"
+	},
+	{
+		"task": "Keg an enemy ship",
+		"description": "Either blow up a keg on their ship or bring one to their ship and blow it up",
+		"difficulty": "medium"
+	},
+	{
+		"task": "Sink an enemy ship",
+		"description": "Sink an enemy player ship in any way",
+		"difficulty": "hard"
+	},
+	{
+		"task": "Catch a fish",
+		"description": "Catch any fish no matter what kind of fish it is",
+		"difficulty": "easy"
+	},
+	{
+		"task": "Catch a stormfish",
+		"description": "Catch any fish in the storm",
+		"difficulty": "medium"
+	},
+	{
+		"task": "Anchor an enemy ship",
+		"description": "Drop their anchor by hand or by cursed ball",
+		"difficulty": "medium"
+	},
+	{
+		"task": "Sit on a skeleton throne",
+		"description": "Sit on a random skeleton throne on any island",
+		"difficulty": "easy"
+	},
+	{
+		"task": "Finish any world event",
+		"description": "Finish any world event",
+		"difficulty": "easy"
+	},
+	{
+		"task": "Finiish the Fort of the Damned",
+		"description": "Finish the Fort of the Damned in any way",
+		"difficulty": "medium"
+	},
+	{
+		"task": "Alliance with two other ships",
+		"description": "Alliance with two other ships",
+		"difficulty": "medium"
+	},
+	{
+		"task": "Eat a banana",
+		"description": "Just eat one banana. Thats it!",
+		"difficulty": "easy"
+	},
+	{
+		"task": "Complete a Talltale",
+		"description": "Any Talltale counts",
+		"difficulty": "easy"
+	},
+	{
+		"task": "Complete a Voyage",
+		"description": "Complete a Gold Horader / Order of Souls / Merchant Alliance Voyage",
+		"difficulty": "easy"
+	},
+	{
+		"task": "Oneball an enemy",
+		"description": "Hit an enemy with a cannon ball and insta kill him",
+		"difficulty": "medium"
+	},
+	{
+		"task": "Go on a 4 win streak in hourglass",
+		"description": "4 win streak in hourglass in any faction",
+		"difficulty": "hard"
+	},
+	{
+		"task": "Go on a 10 win streak in hourglass",
+		"description": "10 win streak in hourglass in any faction",
+		"difficulty": "impossible"
+	},
+	{
+		"task": "Make an enemy crew ragequit/scuttle",
+		"description": "Spawntrap them or anything until they quit or scuttle their ship",
+		"difficulty": "hard"
+	},
+	{
+		"task": "Find someone that speaks your native language",
+		"description": "They should be ablte to at least be able to have small conversation with you",
+		"difficulty": "impossible"
+	},
+	{
+		"task": "Ram an enemy ship",
+		"description": "Just ram 'em",
+		"difficulty": "easy"
+	},
+	{
+		"task": "Complete a Sea Fort",
+		"description": "Kill the Leader of a Sea Fort and open the treasury",
+		"difficulty": "easy"
+	},
+	{
+		"task": "Board a skeleton Ship",
+		"description": "Board a skeleton ship",
+		"difficulty": "easy"
+	},
+	{
+		"task": "Scuttle your ship",
+		"description": "Serverhopping!!!",
+		"difficulty": "easy"
+	},
+	{
+		"task": "Complete a Ghost Fleet without taking damage",
+		"description": "Yes, really. If you get hit once you're done",
+		"difficulty": "Impossible"
+	},
+	{
+		"task": "Kill two skeleton captains",
+		"description": "Slice them up",
+		"difficulty": "easy"
+	},
+	{
+		"task": "Deliver 5 animals of any kind",
+		"description": "Pigs, Snakes,.. anything counts",
+		"difficulty": "medium"
+	},
+	{
+		"task": "Kill the Shoruded Ghost",
+		"description": "If you manage to find one i'm jealous",
+		"difficulty": "impossible"
+	},
+	{
+		"task": "Defeat the kraken",
+		"description": "Kill Mr. Big Squid",
+		"difficulty": "medium"
 	}
 ]
