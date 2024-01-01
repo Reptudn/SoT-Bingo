@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Board from './components/Board.js';
 import Data from './assets/quests.json';
 import './App.css';

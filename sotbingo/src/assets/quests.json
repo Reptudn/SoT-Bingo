@@ -258,5 +258,10 @@
                 "task": "Sell 5 living animals",
                 "description": "Sell animals",
                 "difficulty": "easy"
-		}
+		},
+	{
+		"task": "Dig up a random treasure",
+		"description": "Anything counts",
+		"difficulty": "easy"
+	}
 ]
