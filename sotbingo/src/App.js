@@ -13,9 +13,7 @@ function App() {
 
   return (
     <div className="App">
-      <header className="App-header">
         <Board quests={quests}/>
-      </header>
     </div>
   );
 }

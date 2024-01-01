@@ -1,18 +1,16 @@
 import React, { Component } from 'react';
+import './Field.css';
 
 export default class Field extends Component {
 	
 	
 	render () {
 
-		const { value, task, description, difficulty } = this.props;
+		const { task, description } = this.props;
 
 		return (
 			<div className="field">
-				<p>{value}</p>
 				<h1>{task}</h1>
-				<p>{description}</p>
-				<p>{difficulty}</p>
 			</div>
 		);
 	};
