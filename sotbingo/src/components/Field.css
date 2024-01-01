@@ -3,15 +3,33 @@
 	flex-wrap: wrap;
 	justify-content: center;
 	align-items: center;
-	width: 12vw;
 	height: 12vw;
+	width: 12vw;
 	padding: 0.5rem;
 	background-color: #db2b2b;
 	border-radius: 0.5rem;
 	box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.25);
 	word-wrap: break-word;
+	font-size: 0.5rem;
+	position: relative;
 }
 
 .field:hover {
 	background-color: #f00;
+}
+
+.field:hover::after {
+    content: attr(description);
+	z-index: 1;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 0.5em;
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #000;
+    border-radius: 0.5em;
+    white-space: nowrap;
+	font-size: large;
 }

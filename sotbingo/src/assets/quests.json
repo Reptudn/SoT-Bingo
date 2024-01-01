@@ -50,7 +50,7 @@
 		"difficulty": "easy"
 	},
 	{
-		"task": "Finiish the Fort of the Damned",
+		"task": "Finish the Fort of the Damned",
 		"description": "Finish the Fort of the Damned in any way",
 		"difficulty": "medium"
 	},
@@ -163,5 +163,100 @@
 		"task": "Sell the gold hoarder skull",
 		"description": "This boy is tanky",
 		"difficulty": "medium"
-	}
+	},      
+        {       
+                "task": "Win an hourglass fight without getting demasted",
+                "description": "Do not lose your mast",
+                "difficulty": "hard"
+        },
+        {       
+                "task": "Find 2 wood'n stool",
+                "description": "Find 2 wood'n stools in one session and sell them to any faction",
+                "difficulty": "hard"
+        },
+        {       
+                "task": "Find a Box of Wondrous secrets",
+                "description": "Find a Box of Woudrous secrets or at least try it ;)",
+                "difficulty": "impossible" 
+        },
+        {       
+                "task": "Sell a Breath of the Sea",
+                "description": "Sell a Breath of the Sea to any faction",
+                "difficulty": "medium"
+        },
+        {       
+                "task": "Reapers Mark",
+                "description": "Sink a ship that uses the Reapers Mark flag",
+                "difficulty": "medium"
+        },
+        {      
+                "task": "Shoot Flamehearts ship with a Wraith Cannonball in a ghost fleat",
+                "description": "Give him a taste of his owne medicine",
+                "difficulty": "medium"
+        },
+        {        
+                "task": "Kill a Skeleton with a canonball",
+                "description": "Oneball a skeleton",
+                "difficulty": "easy"
+        },
+        {        
+                "task": "Go fishing on the Shores of Gold",
+                "description": "Fish any fish at the Shores of Gold",
+                "difficulty": "hard"
+        },
+        {        
+                "task": "Play a song with a member of another crew",
+                "description": "Vibe check",
+                "difficulty": "medium"
+        },
+        {        
+                "task": "Scuttle your ship infront of an sinking enemy ship",
+                "description": "Show them you respect",
+                "difficulty": "hard"
+        },
+        {        
+                "task": "Visit 5 islands",
+                "description": "Visit islands in one session",
+                "difficulty": "easy"
+        },
+        {        
+                "task": "Kill 3 skeleton captian",
+                "description": "Emperor of the skeleton",
+                "difficulty": "easy"
+        },
+        {
+                "task": "Give a friendly crew a storage crate with loot",
+                "description": "Be kind",
+                "difficulty": "medium"
+        },
+        {        
+                "task": "Get yourself an specific rowboat",
+                "description": "Get an red,blue or a green rowboat",   
+                "difficulty": "medium"
+        },
+        {        
+                "task": "Cook meat at an seafort",
+                "description": "Get yourself an kitchen pass",
+                "difficulty": "easy"
+        },
+        {
+                "task": "Kill 5 skeleton with one Gunpowderbarrel",
+                "description": "Skeletebomber number 1.",
+                "difficulty": "medium"
+        },
+        {
+                "task": "Dig up 5 treasures from the missionbord", 
+                "description": "Maybe you get lucky",
+                "difficulty": "easy"
+        },
+        {        
+                "task": "Shoot yourself by cannon onto an enemys ship",
+                "description": "Deckshot for real",
+                "difficulty": "hard"
+        },
+        {
+                "task": "Sell 5 living animals",
+                "description": "Sell animals",
+                "difficulty": "easy"
+		}
 ]
