@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/SoT-Bingo/static/css/main.f855e6bc.css",
-    "main.js": "/SoT-Bingo/static/js/main.9860dcbb.js",
+    "main.css": "/SoT-Bingo/static/css/main.7fe23df3.css",
+    "main.js": "/SoT-Bingo/static/js/main.7a6207f3.js",
     "static/js/787.bdd4f94d.chunk.js": "/SoT-Bingo/static/js/787.bdd4f94d.chunk.js",
-    "static/media/logo.svg": "/SoT-Bingo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/SoT-Bingo/index.html",
-    "main.f855e6bc.css.map": "/SoT-Bingo/static/css/main.f855e6bc.css.map",
-    "main.9860dcbb.js.map": "/SoT-Bingo/static/js/main.9860dcbb.js.map",
+    "main.7fe23df3.css.map": "/SoT-Bingo/static/css/main.7fe23df3.css.map",
+    "main.7a6207f3.js.map": "/SoT-Bingo/static/js/main.7a6207f3.js.map",
     "787.bdd4f94d.chunk.js.map": "/SoT-Bingo/static/js/787.bdd4f94d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.9860dcbb.js"
+    "static/css/main.7fe23df3.css",
+    "static/js/main.7a6207f3.js"
   ]
 }
