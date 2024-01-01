@@ -1,22 +1,20 @@
-import logo from './logo.svg';
+import React, { useEffect, useState } from 'react';
+import Board from './components/Board.js';
+import Data from './assets/quests.json';
 import './App.css';
 
 function App() {
+
+  const [quests, setQuests] = useState([]);
+
+  useEffect(() => {
+    setQuests(Data);
+  }, []);
+
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <Board quests={quests}/>
       </header>
     </div>
   );
